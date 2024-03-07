@@ -3,6 +3,7 @@
 var color = "white1";
 class Cell
 {
+    //this is kavitha code
     static color = "white";
     static brand = "Apple";
     static price = 90000.00;
